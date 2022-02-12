@@ -1,0 +1,7 @@
+# Data Structure
+**This Project contains examples of data structures in python**
+
+- BST 
+- Dict - hash table
+
+
