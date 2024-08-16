@@ -1,4 +1,5 @@
-# Data Structure
+# Data Structure & Algorithms in Python
+
 **This Project contains examples of data structures and algorithms in python**
 
 - Stack
